@@ -7,4 +7,4 @@ Luego se abre el editor de texto nano, de esta manera : nano ~/.zshrc ,  y en la
 y por ultimo:
 source ~/.zshrc esto es para actualizar.
 
-![1](/home/Imagenes/1.png)
+![1](/home/fernando/Imagenes/1.png)
