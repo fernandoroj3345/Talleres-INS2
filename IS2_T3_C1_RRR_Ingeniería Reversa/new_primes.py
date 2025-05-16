@@ -7,7 +7,7 @@ import os
 lower = 1
 upper = 50
 os.system('clear')
-print('Numeros primeos entre %d y %d son: \n' % (lower, upper))
+print('Numeros primos entre %d y %d son: \n' % (lower, upper))
 for num in range(lower, upper + 1):
     if num > 1:
         for i in range(2, num):
